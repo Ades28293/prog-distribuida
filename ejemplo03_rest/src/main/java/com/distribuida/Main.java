@@ -139,6 +139,7 @@ public class Main {
         get("/personas/:id", Main::buscarPersona, gson::toJson);
         post("/personas", Main::insertarPersona,gson::toJson);
         put("/personas/:id", Main::actualizarPersona, gson::toJson);
+
         delete("/personas/:id", Main::eliminarPersona, gson::toJson);
 
 
