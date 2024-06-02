@@ -22,4 +22,24 @@ public class ServicioPersonaImpl implements ServicioPersona {
     public List<Persona> findAll() {
         return em.createQuery("select p from Persona p order by id asc", Persona.class).getResultList();
     }
+
+    @Override
+    public void insert(Persona persona) {
+        System.out.println("Se ha insertado el Persona: " + persona);
+         em.persist(persona);
+    }
+
+
+    @Override
+    public void update(Persona persona) {
+        System.out.println("Se ha actualizado la Persona: " + persona.getId());
+        em.merge(persona);
+    }
+
+    @Override
+    public Persona delete(Integer id) {
+
+        em.remove(em.find(Persona.class, id));
+        return null;
+    }
 }

@@ -1,5 +1,5 @@
 insert into persona (id, nombre, direccion, edad)  values  (1,'persons1', 'dired1', 1)
-    insert into persona (id, nombre, direccion, edad)  values  (2,'persons1', 'dired1', 2)
+insert into persona (id, nombre, direccion, edad)  values  (2,'persons1', 'dired1', 2)
 insert into persona (id, nombre, direccion, edad)  values  (3,'persons1', 'dired1', 3)
 insert into persona (id, nombre, direccion, edad)  values  (4,'persons1', 'dired1', 4)
 insert into persona (id, nombre, direccion, edad)  values  (5,'persons1', 'dired1', 5)

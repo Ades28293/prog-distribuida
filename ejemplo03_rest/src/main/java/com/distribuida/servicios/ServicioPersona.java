@@ -8,4 +8,9 @@ public interface ServicioPersona {
 
     Persona findId(int id);
     List<Persona> findAll();
+
+    void insert(Persona persona);
+    void update(Persona persona);
+    Persona delete(Integer id);
+
 }
