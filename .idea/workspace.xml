@@ -5,26 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c0c6db-4ba7-4929-80d1-c671c420f8e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio03_spring/src/main/java/com/distribuida/config/Jpaconfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio03_spring/src/main/java/com/distribuida/db/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio03_spring/src/main/java/com/distribuida/repository/PersonaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio03_spring/src/main/java/com/distribuida/repository/PersonaRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio03_spring/src/main/java/com/distribuida/service/PersonaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio03_spring/src/main/java/com/distribuida/service/PersonaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejemplo04_spring_final/src/main/java/com/distribuida/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejemplo04_spring_final/src/main/java/com/distribuida/db/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejemplo04_spring_final/src/main/java/com/distribuida/servicios/ServicioPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejemplo04_spring_final/src/main/java/com/distribuida/servicios/ServicioPersonaImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejemplo03_rest/build/classes/java/main/com/distribuida/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo03_rest/build/classes/java/main/com/distribuida/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejemplo03_rest/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ejemplo03_rest/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +27,47 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/ejemplo04_spring_final">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="prog-distribuida" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="prog-distribuida" type="f1a62948:ProjectNode" />
+                <item name="ejemplo04_spring_final" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="prog-distribuida" type="f1a62948:ProjectNode" />
+                <item name="ejemplo04_spring_final" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="prog-distribuida" type="f1a62948:ProjectNode" />
+                <item name="ejemplo04_spring_final" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="distribution" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,29 +89,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.prog-distribuida:ejemplo01_cdi [:ejemplo01_cdi:Principal.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.prog-distribuida:ejemplo03_rest [:ejemplo03_rest:Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Documents/Zhong/Distribuida/workSpace/prog-distribuida&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.prog-distribuida:ejemplo01_cdi [:ejemplo01_cdi:Principal.main()].executor": "Run",
+    "Gradle.prog-distribuida:ejemplo03_rest [:ejemplo03_rest:Main.main()].executor": "Run",
+    "Gradle.prog-distribuida:ejemplo04_spring_final [installDist].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Deber2Clase2",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/UCE/Universidad Semestres/UCE/10Semestre/Distribuida/WorkSpacePc/prog-distribuida",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\UCE\Universidad Semestres\UCE\10Semestre\Distribuida\WorkSpacePc\prog-distribuida\ejemplo03_rest\src\main\resources\META-INF" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.prog-distribuida:ejemplo04_spring_final [installDist]">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.distribuida.Main" />
       <module name="prog-distribuida.ejemplo03_rest.main" />
@@ -93,8 +126,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="prog-distribuida:ejemplo04_spring_final [installDist]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ejemplo04_spring_final" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="installDist" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.prog-distribuida:ejemplo04_spring_final [installDist]" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -122,6 +178,7 @@
       <workItem from="1717362817815" duration="1272000" />
       <workItem from="1717731120932" duration="408000" />
       <workItem from="1717731637196" duration="2830000" />
+      <workItem from="1718150557449" duration="5840000" />
     </task>
     <servers />
   </component>
