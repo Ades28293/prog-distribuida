@@ -9,6 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app-authors" />
+            <option value="$PROJECT_DIR$/app-books" />
             <option value="$PROJECT_DIR$/ejemplo01_cdi" />
             <option value="$PROJECT_DIR$/ejemplo03_rest" />
             <option value="$PROJECT_DIR$/ejemplo04_spring_final" />
