@@ -9,6 +9,7 @@ public class Author {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     private Integer id;
+
     private String firstName;
     private String lastName;
     private String age;

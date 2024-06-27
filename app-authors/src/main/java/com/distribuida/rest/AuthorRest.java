@@ -10,10 +10,10 @@ import jakarta.ws.rs.core.Response;
 
 import java.util.List;
 
-@Transactional
+@Path("/authors")
 @Produces(MediaType.APPLICATION_JSON)
 @Consumes(MediaType.APPLICATION_JSON)
-@Path("/author")
+@Transactional
 public class AuthorRest {
 
     @Inject
@@ -21,6 +21,8 @@ public class AuthorRest {
 
     @GET
     public List<Author> findAll() {
+        System.out.println("findAll");
+        System.out.println("**************************");
 
         return authorRepository.listAll();
     }

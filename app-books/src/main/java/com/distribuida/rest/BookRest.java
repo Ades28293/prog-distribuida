@@ -4,6 +4,7 @@ import com.distribuida.clients.AuthorRestClient;
 import com.distribuida.db.Book;
 import com.distribuida.dto.BookDTO;
 import com.distribuida.repo.BookRepository;
+import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;
 import jakarta.ws.rs.*;
@@ -13,10 +14,11 @@ import org.eclipse.microprofile.rest.client.inject.RestClient;
 
 import java.util.List;
 
-@Transactional
+@Path(("/books"))
 @Produces(MediaType.APPLICATION_JSON)
 @Consumes(MediaType.APPLICATION_JSON)
-@Path(("/books"))
+@ApplicationScoped
+@Transactional
 public class BookRest {
 
     @Inject
@@ -30,7 +32,16 @@ public class BookRest {
     public List<BookDTO> findAll() {
 
         var book = bookRepository.listAll();
-        book.stream().forEach(obj -> {
+
+        // TRY / CATCH
+//        RestClientBuilder.newBuilder()
+//                .baseUrl(new URL("http://localhost:9090"))
+////                .readTimeout()
+////                .proxyAddress()
+//                .build(AuthorRestClient.class);
+
+
+       return book.stream().map(obj -> {
             //BookDTO bdto = new BookDTO();
 
             var author=authorRest.findById(obj.getAuthorId());
@@ -46,9 +57,11 @@ public class BookRest {
             //http://localhost:8081/author/{id}
             //bdto.setAuthorId();
             //.....
-        });
 
-        return List.of();
+           return bookDTO;
+        }).toList();
+
+
     }
 
 
@@ -56,7 +69,7 @@ public class BookRest {
     @Path("/{id}")
     public Response findById(@PathParam("id") Integer id) {
         var op = bookRepository.findByIdOptional(id);
-        if (op == null) {
+        if (op.isEmpty()) {
             return Response.status(Response.Status.NOT_FOUND).build();
         }
         return Response.ok(op.get()).build();

@@ -5,19 +5,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c0c6db-4ba7-4929-80d1-c671c420f8e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app-books/src/main/java/com/distribuida/clients/AuthorRestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app-books/src/main/java/com/distribuida/db/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app-books/src/main/java/com/distribuida/dto/AuthorDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app-books/src/main/java/com/distribuida/dto/BookDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app-books/src/main/java/com/distribuida/repo/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app-books/src/main/java/com/distribuida/rest/BookRest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app-books/src/main/resources/META-INF/microprofile-config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app-books/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/build-metrics.json" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/build-metrics.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/classes/java/main/com/distribuida/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/classes/java/main/com/distribuida/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/classes/java/main/com/distribuida/db/Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/classes/java/main/com/distribuida/db/Author.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/classes/java/main/com/distribuida/repo/AuthorRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/classes/java/main/com/distribuida/repo/AuthorRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/classes/java/main/com/distribuida/rest/AuthorRest.class" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/classes/java/main/com/distribuida/rest/AuthorRest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/libs/app-authors-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/libs/app-authors-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-app/app/app-authors-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-app/app/app-authors-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-app/quarkus-run.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-app/quarkus-run.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-app/quarkus/generated-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-app/quarkus/generated-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-app/quarkus/quarkus-application.dat" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-app/quarkus/quarkus-application.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-app/quarkus/transformed-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-app/quarkus/transformed-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-artifact.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-artifact.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-app/app/app-authors-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-app/app/app-authors-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-app/quarkus-run.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-app/quarkus-run.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-app/quarkus/generated-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-app/quarkus/generated-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-app/quarkus/quarkus-application.dat" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-app/quarkus/quarkus-application.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-app/quarkus/transformed-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-app/quarkus/transformed-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-artifact.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/app/quarkus-artifact.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-app/app/app-authors-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-app/app/app-authors-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-app/quarkus-run.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-app/quarkus-run.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-app/quarkus/generated-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-app/quarkus/generated-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-app/quarkus/quarkus-application.dat" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-app/quarkus/quarkus-application.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-app/quarkus/transformed-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-app/quarkus/transformed-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-artifact.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/quarkus-build/gen/quarkus-artifact.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/src/main/java/com/distribuida/db/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/src/main/java/com/distribuida/db/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/src/main/java/com/distribuida/rest/AuthorRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/src/main/java/com/distribuida/rest/AuthorRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-authors/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-authors/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/app-books-dev.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/app-books-dev.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/build-metrics.json" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/build-metrics.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/clients/AuthorRestClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/clients/AuthorRestClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/db/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/db/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/dto/AuthorDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/dto/AuthorDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/dto/BookDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/dto/BookDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/repo/BookRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/repo/BookRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/rest/BookRest.class" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/classes/java/main/com/distribuida/rest/BookRest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/libs/app-books-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/libs/app-books-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-app/app/app-books-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-app/app/app-books-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-app/quarkus-run.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-app/quarkus-run.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-app/quarkus/generated-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-app/quarkus/generated-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-app/quarkus/quarkus-application.dat" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-app/quarkus/quarkus-application.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-app/quarkus/transformed-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-app/quarkus/transformed-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-artifact.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-artifact.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-app/app/app-books-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-app/app/app-books-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-app/quarkus-run.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-app/quarkus-run.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-app/quarkus/generated-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-app/quarkus/generated-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-app/quarkus/quarkus-application.dat" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-app/quarkus/quarkus-application.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-app/quarkus/transformed-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-app/quarkus/transformed-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-artifact.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/app/quarkus-artifact.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-app/app/app-books-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-app/app/app-books-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-app/quarkus-run.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-app/quarkus-run.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-app/quarkus/generated-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-app/quarkus/generated-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-app/quarkus/quarkus-application.dat" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-app/quarkus/quarkus-application.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-app/quarkus/transformed-bytecode.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-app/quarkus/transformed-bytecode.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-artifact.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/quarkus-build/gen/quarkus-artifact.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/resources/main/META-INF/microprofile-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/resources/main/META-INF/microprofile-config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/tmp/quarkusDev/quarkus-app-model.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/build/tmp/quarkusDev/quarkus-app-test-model.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/src/main/java/com/distribuida/clients/AuthorRestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/src/main/java/com/distribuida/clients/AuthorRestClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/src/main/java/com/distribuida/rest/BookRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/src/main/java/com/distribuida/rest/BookRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/src/main/resources/META-INF/microprofile-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/src/main/resources/META-INF/microprofile-config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-books/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app-books/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +105,12 @@
         <task path="$PROJECT_DIR$/ejemplo04_spring_final">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/app-authors">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app-books">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -48,20 +121,38 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="prog-distribuida" type="f1a62948:ProjectNode" />
-                <item name="ejemplo04_spring_final" type="2d1252cf:ModuleNode" />
+                <item name="app-authors" type="2d1252cf:ModuleNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="prog-distribuida" type="f1a62948:ProjectNode" />
-                <item name="ejemplo04_spring_final" type="2d1252cf:ModuleNode" />
+                <item name="app-authors" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="prog-distribuida" type="f1a62948:ProjectNode" />
-                <item name="ejemplo04_spring_final" type="2d1252cf:ModuleNode" />
+                <item name="app-authors" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="distribution" type="c8890929:TasksNode$1" />
+                <item name="quarkus" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="prog-distribuida" type="f1a62948:ProjectNode" />
+                <item name="app-books" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="prog-distribuida" type="f1a62948:ProjectNode" />
+                <item name="app-books" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="prog-distribuida" type="f1a62948:ProjectNode" />
+                <item name="app-books" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="quarkus" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -90,47 +181,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.prog-distribuida:ejemplo01_cdi [:ejemplo01_cdi:Principal.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.prog-distribuida:ejemplo03_rest [:ejemplo03_rest:Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.prog-distribuida:ejemplo04_spring_final [installDist].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;clase3&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pc/Documents/quarkusProject/quarkusProject&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.prog-distribuida:app-authors [quarkusBuild].executor": "Run",
+    "Gradle.prog-distribuida:app-authors [quarkusDev].executor": "Run",
+    "Gradle.prog-distribuida:app-books [quarkusBuild].executor": "Run",
+    "Gradle.prog-distribuida:app-books [quarkusDev].executor": "Run",
+    "Gradle.prog-distribuida:ejemplo01_cdi [:ejemplo01_cdi:Principal.main()].executor": "Run",
+    "Gradle.prog-distribuida:ejemplo03_rest [:ejemplo03_rest:Main.main()].executor": "Run",
+    "Gradle.prog-distribuida:ejemplo04_spring_final [installDist].executor": "Run",
+    "HTTP Request.All in rest-api.executor": "Run",
+    "HTTP Request.rest-api | #1.executor": "Run",
+    "HTTP Request.rest-api_1 | #1.executor": "Run",
+    "HTTP Request.rest-api_2 | #1.executor": "Run",
+    "HTTP Request.rest-api_2 | #2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "clase4",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Helen/Documents/Zhong/Distribuida/Clases/ejemplo05_quarkus",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\UCE\Universidad Semestres\UCE\10Semestre\Distribuida\WorkSpacePc\prog-distribuida\ejemplo03_rest\src\main\resources\META-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.prog-distribuida:ejemplo04_spring_final [installDist]">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.distribuida.Main" />
-      <module name="prog-distribuida.ejemplo03_rest.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.distribuida.config.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="prog-distribuida:ejemplo04_spring_final [installDist]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.rest-api_2 | #2">
+    <configuration name="prog-distribuida:app-authors [quarkusDev]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/ejemplo04_spring_final" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app-authors" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -138,7 +235,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="installDist" />
+            <option value="quarkusDev" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -148,6 +245,82 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>false</RunAsTest>
       <method v="2" />
+    </configuration>
+    <configuration name="prog-distribuida:app-books [quarkusBuild]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app-books" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="quarkusBuild" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="prog-distribuida:app-books [quarkusDev]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app-books" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="quarkusDev" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_2 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_2 | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="prog-distribuida.app-authors.main" type="QuarkusRunConfigurationType" factoryName="Quarkus" nameIsGenerated="true">
+      <module name="prog-distribuida.app-authors.main" />
+      <QsGradleRunConfiguration>
+        <ExternalSystemSettings>
+          <option name="executionName" />
+          <option name="externalProjectPath" value="$PROJECT_DIR$/app-authors" />
+          <option name="externalSystemIdString" value="GRADLE" />
+          <option name="scriptParameters" />
+          <option name="taskDescriptions">
+            <list />
+          </option>
+          <option name="taskNames">
+            <list />
+          </option>
+          <option name="vmOptions" />
+        </ExternalSystemSettings>
+        <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+        <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+        <DebugAllEnabled>false</DebugAllEnabled>
+        <RunAsTest>false</RunAsTest>
+        <profile>dev</profile>
+      </QsGradleRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="prog-distribuida.app-books.integrationTest" type="QuarkusRunConfigurationType" factoryName="Quarkus" nameIsGenerated="true">
       <module name="prog-distribuida.app-books.integrationTest" />
@@ -203,16 +376,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.prog-distribuida:ejemplo04_spring_final [installDist]" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="HTTP Request.rest-api_2 | #2" />
+        <item itemvalue="HTTP Request.rest-api_2 | #1" />
+        <item itemvalue="Gradle.prog-distribuida:app-books [quarkusDev]" />
+        <item itemvalue="Gradle.prog-distribuida:app-authors [quarkusDev]" />
+        <item itemvalue="Gradle.prog-distribuida:app-books [quarkusBuild]" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -236,6 +412,9 @@
       <workItem from="1718225023131" duration="8629000" />
       <workItem from="1719087466889" duration="974000" />
       <workItem from="1719088460114" duration="839000" />
+      <workItem from="1719453101910" duration="515000" />
+      <workItem from="1719453638991" duration="4377000" />
+      <workItem from="1719461133789" duration="5017000" />
     </task>
     <servers />
   </component>

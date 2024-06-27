@@ -1,0 +1,46 @@
+{
+  "Resource Endpoints": [
+    {
+      "uri": "/author/{id}",
+      "description": "DELETE (consumes: application/json) (produces:application/json)"
+    },
+    {
+      "uri": "/author",
+      "description": "POST (consumes: application/json) (produces:application/json)"
+    },
+    {
+      "uri": "/author",
+      "description": "GET (consumes: application/json) (produces:application/json)"
+    },
+    {
+      "uri": "/author/{id}",
+      "description": "GET (consumes: application/json) (produces:application/json)"
+    },
+    {
+      "uri": "/author/{id}",
+      "description": "PUT (consumes: application/json) (produces:application/json)"
+    }
+  ],
+  "Additional endpoints": [
+    {
+      "uri": "/q/arc",
+      "description": "CDI Overview"
+    },
+    {
+      "uri": "/q/arc/beans",
+      "description": "Active CDI Beans"
+    },
+    {
+      "uri": "/q/arc/observers",
+      "description": "Active CDI Observers"
+    },
+    {
+      "uri": "/q/arc/removed-beans",
+      "description": "Removed CDI Beans"
+    },
+    {
+      "uri": "/q/dev-ui",
+      "description": "Dev UI"
+    }
+  ]
+}
