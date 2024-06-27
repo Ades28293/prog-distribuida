@@ -5,11 +5,11 @@ import com.distribuida.dto.AuthorDTO;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;
 import org.eclipse.microprofile.rest.client.inject.RegisterRestClient;
-
+@Path("/author")
 @Produces(MediaType.APPLICATION_JSON)
 @Consumes(MediaType.APPLICATION_JSON)
-@Path("/author")
-@RegisterRestClient(baseUri = "http://localhost:9090")
+//@RegisterRestClient(baseUri = "http://localhost:9090")
+@RegisterRestClient(configKey = "AuthorRestClient")
 /*
 Registra esta interfaz como un cliente REST con la URI
 base http://localhost:9090. Esto significa que todas las
